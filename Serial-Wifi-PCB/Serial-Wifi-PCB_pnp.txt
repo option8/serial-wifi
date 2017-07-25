@@ -1,0 +1,23 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Serial-Wifi-PCB
+*Date=13:12:04
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;35.9159;-21.06;0;Top;Pad3
+2;;THT;21.6284;-18.52;90;Bottom;G-Tx-Rx-V+
+3;;;33.6934;-21.06;0;Top;Pad2
+4;;usb-b-pth;6.13869;-14.0623;0;Bottom;USB
+5;;THT;27.9784;-22.33;0;Bottom;CTS/RTS
+6;;;57.4872;-13.036;0;Bottom;Adafruit HUZZAH ESP8266
+7;;;35.9159;-23.6;0;Top;Pad4
+8;;;33.6934;-23.6;0;Top;Pad1
